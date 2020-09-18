@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NEDA_Test", "NEDA_Test\NEDA_Test.csproj", "{584E0FF7-6038-42B4-ABAB-149AC07727F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{584E0FF7-6038-42B4-ABAB-149AC07727F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{584E0FF7-6038-42B4-ABAB-149AC07727F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{584E0FF7-6038-42B4-ABAB-149AC07727F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{584E0FF7-6038-42B4-ABAB-149AC07727F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6083745D-1B91-456F-B176-55117B9A52B7}
+	EndGlobalSection
+EndGlobal
